@@ -1,18 +1,19 @@
 ---
 layout: club
-club: "Ember Hollow Foxes"
-city: "Ember Hollow"
+club: Ember Hollow Foxes
+city: Ember Hollow
 founded: 2020
-home_venue: "Ember Hollow Fairgrounds"
-primary_color: "#c0501a"
-summary: "The newest club in the league, skating at the fairgrounds with a young roster and a quickly growing following."
-kit_repo: "ember-hollow-foxes-kit"
+home_venue: Ember Hollow Fairgrounds
+primary_color: '#c0501a'
+summary: The newest club in the league, skating at the fairgrounds with a young roster
+  and a quickly growing following.
+kit_repo: ember-hollow-foxes-kit
 back_to_back:
   HA: 0
-  AH: 0
-  HH: 0
-  AA: 0
-  total: 0
+  AH: 1
+  HH: 2
+  AA: 3
+  total: 6
 ---
 
 ## About the Ember Hollow Foxes

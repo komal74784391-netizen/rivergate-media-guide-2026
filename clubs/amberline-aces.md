@@ -1,18 +1,20 @@
 ---
 layout: club
-club: "Amberline Aces"
-city: "Amberline"
+club: Amberline Aces
+city: Amberline
 founded: 2011
-home_venue: "Amberline Civic Rink"
-primary_color: "#1b3a6b"
-summary: "The league's founding charter club, known for a fast technical pack and a wall of navy blue in the stands."
-kit_repo: "amberline-aces-kit"
+home_venue: Amberline Civic Rink
+primary_color: '#1b3a6b'
+summary: The league's founding charter club, known for a fast technical pack and a
+  wall of navy blue in the stands.
+kit_repo: amberline-aces-kit
 back_to_back:
-  HA: 0
+  HA: 4
   AH: 0
   HH: 0
-  AA: 0
-  total: 0
+  AA: 3
+  total: 7
+kit_url: https://github.com/komal74784391-netizen/amberline-aces-kit
 ---
 
 ## About the Amberline Aces

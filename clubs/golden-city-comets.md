@@ -1,19 +1,19 @@
 ---
 layout: club
-club: "Golden City Comets"
-city: "Golden City"
+club: Golden City Comets
+city: Golden City
 founded: 2016
-home_venue: "Golden City Coliseum"
-primary_color: "#b8860b"
-summary: "Golden City's comet-tail jerseys are the most photographed in the league, and the Coliseum crowd is the loudest on a Saturday night."
-kit_repo: "Golden-Team-Brand-kit"
-kit_url: "https://github.com/sparkone-sue/Golden-Team-Brand-kit"
+home_venue: Golden City Coliseum
+primary_color: '#b8860b'
+summary: Golden City's comet-tail jerseys are the most photographed in the league,
+  and the Coliseum crowd is the loudest on a Saturday night.
+kit_repo: Golden-Team-Brand-kit
 back_to_back:
-  HA: 0
-  AH: 0
-  HH: 0
-  AA: 0
-  total: 0
+  HA: 2
+  AH: 3
+  HH: 2
+  AA: 1
+  total: 8
 ---
 
 ## About the Golden City Comets

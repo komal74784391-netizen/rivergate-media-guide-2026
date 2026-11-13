@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <title>Rivergate Roller Derby League crest</title>
+  <circle cx="120" cy="120" r="112" fill="#10243d" stroke="#c9a227" stroke-width="6"/>
+  <path d="M40 138 C 78 118, 96 118, 120 138 C 144 158, 162 158, 200 138" fill="none" stroke="#f2f2f2" stroke-width="10"/>
+  <path d="M40 166 C 78 146, 96 146, 120 166 C 144 186, 162 186, 200 166" fill="none" stroke="#c9a227" stroke-width="6"/>
+  <text x="120" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#f2f2f2">RIVERGATE</text>
+</svg>

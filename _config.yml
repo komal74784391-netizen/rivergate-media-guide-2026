@@ -1,0 +1,16 @@
+title: Rivergate Media Guide 2026
+description: Media guide for the Rivergate Roller Derby League 2026 season
+baseurl: ""
+url: ""
+theme: minima
+collections:
+  clubs:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: clubs
+    values:
+      layout: club
+markdown: kramdown
+permalink: /clubs/:slug/

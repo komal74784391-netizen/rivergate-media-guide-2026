@@ -1,18 +1,20 @@
 ---
 layout: club
-club: "Blackwater Bruisers"
-city: "Blackwater"
+club: Blackwater Bruisers
+city: Blackwater
 founded: 2013
-home_venue: "Blackwater Armory"
-primary_color: "#5a1a1a"
-summary: "A physical, grind-it-out club skating out of the old armory on the east bank of the Blackwater."
-kit_repo: "blackwater-bruisers-kit"
+home_venue: Blackwater Armory
+primary_color: '#5a1a1a'
+summary: A physical, grind-it-out club skating out of the old armory on the east bank
+  of the Blackwater.
+kit_repo: blackwater-bruisers-kit
 back_to_back:
   HA: 0
-  AH: 0
-  HH: 0
-  AA: 0
-  total: 0
+  AH: 2
+  HH: 3
+  AA: 3
+  total: 8
+kit_url: https://github.com/komal74784391-netizen/blackwater-bruisers-kit
 ---
 
 ## About the Blackwater Bruisers

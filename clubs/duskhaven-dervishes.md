@@ -1,18 +1,19 @@
 ---
 layout: club
-club: "Duskhaven Dervishes"
-city: "Duskhaven"
+club: Duskhaven Dervishes
+city: Duskhaven
 founded: 2018
-home_venue: "Duskhaven Dome"
-primary_color: "#4b2a6b"
-summary: "Duskhaven skates under the dome lights with a whirlwind pack that never sits still for a full jam."
-kit_repo: "duskhaven-dervishes-kit"
+home_venue: Duskhaven Dome
+primary_color: '#4b2a6b'
+summary: Duskhaven skates under the dome lights with a whirlwind pack that never sits
+  still for a full jam.
+kit_repo: duskhaven-dervishes-kit
 back_to_back:
-  HA: 0
-  AH: 0
-  HH: 0
-  AA: 0
-  total: 0
+  HA: 3
+  AH: 1
+  HH: 1
+  AA: 2
+  total: 7
 ---
 
 ## About the Duskhaven Dervishes
